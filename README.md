@@ -1,5 +1,15 @@
 # 🚀 IDE Pool Desktop - User Guide / Hướng dẫn sử dụng
 
+<p align="center">
+  <img src="https://i.ibb.co/cKqbXsnV/Code-X.png" alt="CodeX" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/WpvZLPxW/Claude.png" alt="Claude" height="100" />
+</p>
+
+<p align="center">
+  <b>CodeX</b> &nbsp; • &nbsp; <b>Claude</b>
+</p>
+
 ---
 
 # 🇻🇳 Phiên bản Tiếng Việt
@@ -28,9 +38,9 @@ Chào mừng bạn đến với **IDE Pool**, giải pháp quản lý và kích 
 4. Hệ thống sẽ tự động đăng ký thiết bị của bạn và hiển thị thông tin thời hạn, dung lượng sử dụng.
 
 ### 3. Sử dụng các tính năng
-- **Danh sách IDE**: Sau khi kích hoạt, bạn sẽ thấy danh sách các ứng dụng (như Cursor, VS Code, v.v.)
+- **Danh sách IDE**: Sau khi kích hoạt, bạn sẽ thấy danh sách các ứng dụng như **Cursor**, **CodeX**, **Claude Code**, **VS Code**, v.v.
 - **Setup CLI**: Nhấn nút "Cài đặt" tương ứng với IDE bạn muốn sử dụng để hệ thống tự động cấu hình bản quyền.
-- **Theo dõi dung lượng**: Xem trực tiếp dung lượng $ (Usage) đã sử dụng và còn lại ngay trên Dashboard.
+- **Theo dõi dung lượng**: Xem trực tiếp dung lượng `$ Usage` đã sử dụng và còn lại ngay trên Dashboard.
 
 ---
 
@@ -81,7 +91,7 @@ Welcome to **IDE Pool**, a powerful license management and activation solution t
 4. The system will automatically register your device and display expiration date and usage information.
 
 ### 3. Using Features
-- **IDE List**: After activation, you'll see a list of supported applications such as Cursor, VS Code, and more.
+- **IDE List**: After activation, you'll see a list of supported applications such as **Cursor**, **CodeX**, **Claude Code**, **VS Code**, and more.
 - **Setup CLI**: Click the corresponding "Install" button to automatically configure licensing for your selected IDE.
 - **Usage Monitoring**: View your used and remaining balance directly on the dashboard.
 
