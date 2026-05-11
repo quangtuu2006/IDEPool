@@ -13,7 +13,8 @@ Chào mừng bạn đến với **IDE Pool**, giải pháp quản lý và kích 
 ## 🛠️ Cách bắt đầu (Dành cho người dùng)
 
 ### 1. Tải về ứng dụng
-*   Tải bản cài đặt mới nhất `.exe` (dành cho Windows) hoặc `.dmg` (dành cho macOS) từ link được cung cấp bởi quản trị viên của bạn.
+* Tải bản cài đặt mới nhất:
+  - [Windows (.exe)]([https://your-domain.com/downloads/YourAppSetup.exe](https://github.com/quangtuu2006/IDEPool/raw/main/idepool-desktop.exe))
 
 ### 2. Khởi chạy và Kích hoạt
 1.  Mở ứng dụng **IDE Pool** vừa tải về.
